@@ -1,0 +1,7 @@
+﻿com.samsung.health.oxygen_saturation.raw,6307003,1
+start_time,binning_data,update_time,create_time,is_integrated,time_offset,deviceuuid,comment,pkg_name,end_time,datauuid
+2025-12-05 03:15:00.000,c978cd92-48a6-4a1a-8b21-a55d71910337.binning_data.json,2025-12-05 13:02:43.529,2025-12-05 13:02:43.529,,UTC-0300,9cX1oNetDs,,com.sec.android.app.shealth,2025-12-05 12:35:00.000,c978cd92-48a6-4a1a-8b21-a55d71910337,
+2025-12-06 03:20:00.000,fda13f27-f3a0-477e-b18e-de941e1e0e10.binning_data.json,2025-12-06 12:53:18.718,2025-12-06 12:53:18.718,,UTC-0300,9cX1oNetDs,,com.sec.android.app.shealth,2025-12-06 12:25:00.000,fda13f27-f3a0-477e-b18e-de941e1e0e10,
+2025-12-10 04:34:00.000,d6abaed2-d77f-4ac4-89ec-24b16cca8f80.binning_data.json,2025-12-10 11:43:17.610,2025-12-10 11:43:17.610,,UTC-0300,9cX1oNetDs,,com.sec.android.app.shealth,2025-12-10 11:16:00.000,d6abaed2-d77f-4ac4-89ec-24b16cca8f80,
+2025-12-11 03:46:00.000,39a194e0-f69e-4c52-a8d1-92a0958c9fd6.binning_data.json,2025-12-11 10:09:44.276,2025-12-11 10:09:44.276,,UTC-0300,9cX1oNetDs,,com.sec.android.app.shealth,2025-12-11 10:09:00.000,39a194e0-f69e-4c52-a8d1-92a0958c9fd6,
+2025-12-13 03:15:00.000,100b666d-988c-4c20-82ac-f72ff986332d.binning_data.json,2025-12-13 10:49:16.716,2025-12-13 10:49:16.716,,UTC-0300,9cX1oNetDs,,com.sec.android.app.shealth,2025-12-13 10:21:00.000,100b666d-988c-4c20-82ac-f72ff986332d,

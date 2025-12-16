@@ -1,0 +1,4 @@
+﻿com.samsung.shealth.activity.daily_goal,6307003,1
+start_time,update_time,create_time,value,time_offset,deviceuuid,pkg_name,datauuid
+2023-10-11 20:40:14.825,2023-10-11 20:40:14.831,2023-10-11 20:40:14.831,60,UTC-0300,zygK3IiKBU,com.sec.android.app.shealth,98ac4f86-754e-4042-a1ad-a8d427e9b5b4,
+2024-10-15 20:51:56.439,2024-10-15 20:51:56.480,2024-10-15 20:51:56.480,60,UTC-0300,XLy3VBYEN4,com.sec.android.app.shealth,dd81fb15-cb82-4f0e-84d0-c56df8945e35,

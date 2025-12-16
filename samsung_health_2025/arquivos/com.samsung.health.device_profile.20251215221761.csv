@@ -1,0 +1,10 @@
+﻿com.samsung.health.device_profile,6307003,9
+manufacturer,providing_step_goal,create_sh_ver,step_source_group,device_type,backsync_step_goal,capability,modify_sh_ver,device_group,update_time,create_time,name,model,legacy_deviceuuid,connectivity_type,deviceuuid,pkg_name,accessory_type,fixed_name,datauuid
+Samsung,,,,,,,,360001,2025-12-10 14:23:26.455,2025-12-10 14:23:26.455,My Device,SM-S731B,,,bvFPH0+ZC9,com.sec.android.app.shealth,,S25 FE de Julia,c4dc078d-fc0b-8517-7b07-ccb3f487b494,
+Combined,,,,,,,,0,2025-12-10 14:23:46.284,2025-12-10 14:23:46.284,Combined,Combined,,,VfS0qUERdZ,com.sec.android.app.shealth,,S25 FE de Julia,7af9722c-cd99-07b7-853a-43ce58e819c5,
+all_target,,,,,,,,0,2025-12-10 14:23:46.355,2025-12-10 14:23:46.355,all_target,all_target,,,Mk66SbFqK1,com.sec.android.app.shealth,,S25 FE de Julia,471ca32b-a665-1e9e-7c27-7ac69485dc05,
+Samsung,,,,,,,,360001,2023-10-10 17:44:56.378,2023-10-10 17:44:56.378,My Device,SM-M127F,,,zygK3IiKBU,com.sec.android.app.shealth,,M12 de Julia,3d791d6a-f44c-c1d0-65a9-a21625d7b0f4,
+Samsung Electronics,1,,102,10054,1,3a55bed8-9cb6-409b-9afe-1221be150643.capability.json,,360003,2024-04-25 12:01:20.524,2023-10-10 17:29:44.469,Galaxy Watch4,SM-R860,,,60rRju/E5J,com.sec.android.app.shealth,,Galaxy M12,3a55bed8-9cb6-409b-9afe-1221be150643,
+Samsung Electronics,,,,,,,,360003,2024-05-07 01:05:39.434,2024-05-07 01:05:39.434,Strava,www.strava.com,,,9T6hcRL67o,com.sec.android.app.shealth,,M12 de Julia,050092f8-7b72-b1ca-806d-4e5c0da35ae5,
+Samsung,,,,,,,,360001,2024-08-02 00:14:29.103,2024-06-02 13:25:36.652,My Device,SM-M127F,,,XLy3VBYEN4,com.sec.android.app.shealth,,M12 de Julia,de14e80f-a2b8-8310-af69-888677315fe9,
+Samsung Electronics,1,62670070,102,10054,1,e1ad1d25-7671-4348-9c8c-cb06597afa6c.capability.json,63060070,360003,2025-11-17 18:09:21.451,2024-02-21 12:31:56.941,Galaxy Watch4,SM-R860,,,9cX1oNetDs,com.sec.android.app.shealth,,,e1ad1d25-7671-4348-9c8c-cb06597afa6c,

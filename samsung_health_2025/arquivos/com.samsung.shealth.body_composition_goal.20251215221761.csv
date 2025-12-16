@@ -1,0 +1,3 @@
+﻿com.samsung.shealth.body_composition_goal,6307003,2
+target_weight,start_time,custom,is_deleted,is_rewarded,update_time,start_body_fat,create_time,achieved_skeletal_muscle,data_version,achieved_time,start_weight,time_offset,achieved_body_fat,deviceuuid,pkg_name,start_skeletal_muscle,achieved_weight,target_skeletal_muscle,end_time,datauuid,target_body_fat
+55.0,2023-10-11 11:43:19.507,23f274eb-df91-47c4-a61b-cec0483d4afe.custom.json,0,0,2023-10-11 11:43:26.852,35.9,2023-10-11 11:43:19.520,,1,,65.0,UTC-0300,,zygK3IiKBU,com.sec.android.app.shealth,21.7,,21.7,2023-12-06 02:59:59.000,23f274eb-df91-47c4-a61b-cec0483d4afe,30.0,
