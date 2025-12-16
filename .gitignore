@@ -1,0 +1,16 @@
+# 1. Ambientes Virtuais 
+.venv/
+venv/
+env/
+
+# 2. Arquivos de Notebooks 
+.ipynb_checkpoints/
+
+# 3. Arquivos de Cache e Metadados do Python
+__pycache__/
+*.pyc
+*.pyd
+
+# 4. Arquivos do Sistema Operacional
+Thumbs.db
+.DS_Store
