@@ -7,7 +7,7 @@ def limpeza_dados(arquivo):
     dados_para_df = [] 
 
     try:
-        with open(file, 'r', newline='') as file:
+        with open(arquivo, 'r', newline='') as file:
             csv_reader = csv.reader(file, delimiter=',')
             
             try:
